@@ -1,0 +1,16 @@
+---
+id: 1235
+title: Enter Gladys
+date: 2016-03-11T16:35:24+00:00
+author: laurencraig
+layout: post
+guid: http://lindsaythomas.net/engl4590/?p=1235
+permalink: /2016/03/11/enter-gladys/
+ample_page_layout:
+  - default_layout
+categories:
+  - Lab 5b
+---
+I have so much respect for people that do this voluntarily. As with many people, this lab was less me actually doing things and more me wondering why the thing is not working. This is actually the reason for the title. My computer is now named Gladys because she was playing well with the software. It feels very meta for me to write about my computer while writing on my computer, but I digress.  First, I realized I had not installed the right Java. After that, Gladys refused to recognize it. The best guess I have for that is that she knows I do not like coffee.  Eventually, I was told that I had to redo the environment variable. I had already done this twice and there is no reason that doing it again should have made any difference, but it did. Yay! Then I couldn&#8217;t create a keys file. That was a relatively simple typo fix. I still cannot open the gz file. It is uploaded, but I have no clue what is in it.
+
+When everything finally sorted itself out, I decided to use my Lab 3 corpus. As a refresher, this is from the Historical fiction corpus. The texts included are _Two Penniless Princesses_ and _A Reputed Changeling_ by Charlotte Yonge, _Ben Hur_ by Lew Wallace, _the Prince and the Pauper_ by Mark Twain, _Maid Marian _by Thomas Love Peacock, and _The Dragon and the Raven_ by G.A. Henty among others. I decided to model 20 topics because that is what it said on the sheet. I tried to do something else, but Gladys was not having it, so I went with 20. When I looked in the composition file, I got a nice little chart that refuses to show up here.  What it showed was  what proportion of a topic was in a work. I&#8217;m a visual person, so having a chart instead of lines of random data was immensely helpful. When I looked at the keys file, some topics immediately looked more coherent than others. For example the third looked more coherent than the first. The first &#8220;god woman stood find lay hour strange speak true save sword live presently grew loved made knew rest spoke brother&#8221; looks as if it would require interpretation. None of the words look related. The third &#8220;ben-hur thou thy roman thee simonides god son messala esther sheik rome ilderim malluch balthasar jew egyptian love arrius people&#8221; is far more identifiable. This is a collection of topics from _Ben Hur_. Most of the topics are names or descriptors. Even if you&#8217;ve never heard of _Ben Hur_, you can at least begin to construct the important cast. This list does not tell the relationships between the characters, but you can understand what the general conflict will be. There are three nations represented and so it is not a stretch to say that there is some tension there. It can be inferred that the different characters are from the different nationalities and they are in conflict as well.
